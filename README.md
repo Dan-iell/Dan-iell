@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p> Nice to meet you! </p>
+<p> I am Sogbade Daniel. I write HTML,CSS and Javascript </p>
+<p> Looking forward to meeting you! </p>
 
 <!--
 **Dan-iell/Dan-iell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
